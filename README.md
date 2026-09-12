@@ -93,7 +93,7 @@ NFA to DFA Conversion
 
 ## 👤 Author
 
-M. Tilak Roshan  
-Roll No: 25075A7203  
+V. Nanda Chary  
+Roll No: 25075A7207  
 Course: Automata and Compiler Design  
 Assignment:1
